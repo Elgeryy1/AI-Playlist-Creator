@@ -6,6 +6,26 @@
 
 ---
 
+##Registro Beta Privada – Creador de Playlists con IA
+
+¡Gracias por tu interés en probar la beta privada de nuestra aplicación! 🎶
+
+Para unirte, sigue estos pasos:
+
+Accede al formulario de registro aquí: Formulario de Beta Privada
+
+Completa tus datos correctamente y envía el formulario.
+
+Una vez registrado, recibirás confirmación por correo (o se añadirá tu usuario a nuestra lista interna).
+
+A partir de ahí, recibirás acceso a la beta privada y podrás probar todas las funciones antes del lanzamiento oficial.
+
+⚠️ Nota: Esta beta es privada y limitada, solo los usuarios registrados podrán acceder a ella.
+
+¡Gracias por ayudarnos a mejorar Creador de Playlists con IA! 🙌
+
+---
+
 ## 🚀 Qué es AI Playlist Creator
 
 AI Playlist Creator es una aplicación de escritorio para Windows que permite crear playlists personalizadas en Spotify a partir de **descripciones en lenguaje natural** o **estados de ánimo**.  
