@@ -71,3 +71,12 @@ Actualmente bajo **Licencia Personalizada / GPLv3**.
 - Se permite usar y modificar el software.  
 - Si redistribuyes o subes modificaciones, debes dar crédito al autor original (Gerard / AI Playlist Creator).  
 - Este software se proporciona “tal cual”, sin garantía de ningún tipo.
+
+---
+
+## 🖥️ Capturas de pantalla
+
+![Interfaz principal](assets/interfaz.png)
+![Generando playlist](assets/generando.png)
+![Refinamiento interactivo](assets/refinamiento.png)
+
