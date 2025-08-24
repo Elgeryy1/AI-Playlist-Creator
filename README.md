@@ -44,7 +44,7 @@ Accede a [Google AI Studio](https://aistudio.google.com/app/u/2/apikey?pli=1).
 
 Inicia sesión con tu cuenta de Google.
 
-Haz clic en "Create API key" y copia la clave que se genera.
+Haz clic en **"Create API key"** y copia la clave generada.
 
 ⚠️ Importante: Tu clave de API es secreta. No la compartas con nadie.
 
