@@ -38,7 +38,7 @@ Con la potencia de **Google Gemini** y la integración de **Spotify Web API**, p
 
 ## ⚙️ Uso
 
-Descarga el **.exe** de la última versión en la sección de [Releases](https://github.com/TUUSUARIO/AI-Playlist-Creator/releases) y ejecútalo directamente en Windows.  
+Descarga el **.exe** de la última versión en la sección de [Releases]([https://github.com/TUUSUARIO/AI-Playlist-Creator/releases](https://github.com/Elgeryy1/AI-Playlist-Creator/releases)) y ejecútalo directamente en Windows.  
 
 > Nota: Actualmente solo usuarios invitados pueden iniciar sesión en Spotify por limitaciones de la API.
 
