@@ -1,0 +1,62 @@
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
+
+Copyright (C) 2025 Gerard Alvear <https://github.com/Elgeryy1>
+Everyone is permitted to copy, distribute, and modify this software under the
+terms of this license, with the condition that credit is given to the original
+author (Gerard Alvear) and that significant modifications are communicated
+or indicated when redistributing.
+
+Preamble
+
+The GNU General Public License is a free, copyleft license for software and other
+kinds of works. Its purpose is to guarantee freedom to share and modify all versions
+of a program, while protecting your rights and the rights of others.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+"This License" refers to version 3 of the GNU General Public License.
+"The Program" refers to any copyrightable work licensed under this License.
+"Modify" means to copy or adapt all or part of the work in a way that requires copyright permission.
+"Convey" means any propagation that allows others to make or receive copies.
+
+1. Source Code.
+The source code means the preferred form for making modifications. Object code is any non-source form.
+
+2. Basic Permissions.
+You may run, copy, and propagate the work. You may modify it, provided you include notices stating you modified it, the date, and that credit is given to the original author.  
+
+3. Conveying Verbatim Copies.
+You may convey verbatim copies of the Program’s source code, provided that all copyright notices,
+license notices, and disclaimers of warranty are intact.
+
+4. Conveying Modified Source Versions.
+You may distribute modified versions of the Program, provided that you:
+  a) give prominent notice that you modified the work, with date;
+  b) keep this license attached and intact;
+  c) license the entire work under this license;
+  d) credit the original author (Gerard Alvear);
+  e) notify the original author if you redistribute a modified version (optional but appreciated).
+
+5. Disclaimer of Warranty.
+This software is provided “as is”, without warranty of any kind. Use at your own risk.
+
+6. Limitation of Liability.
+In no event will the author be liable for any damages arising from use of this software.
+
+How to Apply These Terms to Your Programs:
+
+Attach the following notice to your files:
+
+    AI Playlist Creator
+    Copyright (C) 2025 Gerard Alvear
+
+    This program is free software: you can redistribute it and/or modify it under
+    the terms of the GNU General Public License as published by the Free Software
+    Foundation, version 3 or later, with the condition that credit is given to
+    Gerard Alvear and major modifications are indicated.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See <https://www.gnu.org/licenses/>.
