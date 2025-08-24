@@ -27,6 +27,35 @@ A partir de ahí, recibirás acceso a la beta privada y podrás probar todas las
 
 ---
 
+## 🚀 Cómo Empezar (Guía para Usuarios)
+Para usar la aplicación, solo necesitas descargar el ejecutable y conseguir una clave de API gratuita de Google.
+
+Paso 1: Descargar la Aplicación
+
+Ve a la sección de "Releases" en la parte derecha de esta página de GitHub.
+Descarga el archivo AI.Playlist.Creator.exe de la última versión.
+Guarda el archivo en una carpeta en tu ordenador. ¡No requiere instalación!
+
+Paso 2: Obtener tu API Key de Google Gemini
+
+La IA necesita esta clave para funcionar. Es gratuita y fácil de obtener.
+Accede a Google AI Studio.
+Inicia sesión con tu cuenta de Google.
+Haz clic en "Create API key" y copia la clave que se genera.
+
+⚠️ Importante: Tu clave de API es secreta. No la compartas con nadie.
+
+Paso 3: Primer Arranque y Configuración
+
+Ejecuta AI Playlist Creator.exe.
+Aparecerá la ventana de "Configuración Inicial".
+Pega tu API Key de Gemini en el primer campo.
+Haz clic en el botón "Iniciar Sesión con Spotify". Se abrirá una ventana de tu navegador para que autorices la aplicación.
+
+¡Y ya está! La aplicación guardará tus claves de forma segura para las próximas veces.
+
+---
+
 ## 🚀 Qué es AI Playlist Creator
 
 AI Playlist Creator es una aplicación de escritorio para Windows que permite crear playlists personalizadas en Spotify a partir de **descripciones en lenguaje natural** o **estados de ánimo**.  
