@@ -6,13 +6,14 @@
 
 ---
 
-##Registro Beta Privada – Creador de Playlists con IA
+## Registro Beta Privada – Creador de Playlists con IA
 
 ¡Gracias por tu interés en probar la beta privada de nuestra aplicación! 🎶
 
 Para unirte, sigue estos pasos:
 
-Accede al formulario de registro aquí: Formulario de Beta Privada
+Accede al formulario de registro aquí: [Formulario de Beta Privada](https://docs.google.com/forms/d/e/1FAIpQLSfgpnjuWvyIUXto5p1ZszkMx_YBGYHfjz7NTboTo28-Szm47g/viewform?usp=dialog)
+
 
 Completa tus datos correctamente y envía el formulario.
 
